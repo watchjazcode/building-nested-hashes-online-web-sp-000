@@ -9,7 +9,9 @@ def fourth_challenge
         {:name
         :age
         :attitude},
-        {
+        {:name
+         :age
+         :attitude}
       ]
    }, 
    :capulet => {
